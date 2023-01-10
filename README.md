@@ -14,7 +14,6 @@ I'm Diki Siswanto, a rookie Frontend Web Developer from Indonesia🇮🇩
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></code>
 
 ### Current activities 
-- 📁 I’m currently working on my undergraduate research proposal
 - 🌱 I’m currently learning JavaScript
 - 🔍 I'm looking for mentors
 - 📫 You can reach me at siswantod16d[at]student.unhas.ac.id
